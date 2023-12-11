@@ -1,0 +1,22 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: #de7471
+    }
+ h2{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: #070606
+    }   
+    p{
+    font-size: 20px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    }
+    
+    body {
+    background-color: #00b8b6;
+    }
+
